@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=Megaman Battle Network
+Comment=Sounds from the hit Megaman Battle Network game series
+Inherits=ocean,freedesktop
+Directories=mmbn
+
+[MMBN]
+OutputProfile=mmbn
