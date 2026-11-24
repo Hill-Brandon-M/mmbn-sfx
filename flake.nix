@@ -1,5 +1,5 @@
 { 
-  description = "A pack of the custom sound effects used in the hit GBA game series Megaman Batte Network";
+  description = "A pack of the custom sound effects used in the hit GBA game series Megaman Battle Network";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
   

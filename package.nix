@@ -22,6 +22,6 @@ pkgs.stdenvNoCC.mkDerivation {
 
   meta = {
     name = "Megaman Battle Network Sounds Effect Pack";
-    description = "A pack of the custom sound effects used in the hit GBA game series Megaman Batte Network";
+    description = "A pack of the custom sound effects used in the hit GBA game series Megaman Battle Network";
   };
 }
